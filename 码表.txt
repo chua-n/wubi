@@ -653,7 +653,7 @@ aewt	苟且偷生
 aexf	散结
 aexy	藤编
 aey	芨
-aeya	散席
+aeya	散度
 aeyj	散剂
 aeym	菜市
 aeyn	散记
@@ -4940,7 +4940,6 @@ bwhj	除旧
 bwhx	险些
 bwic	险滩
 bwic	除治
-bwif	除尘
 bwif	除法
 bwih	附小
 bwij	除湿
@@ -60055,8 +60054,8 @@ usgc	新到
 usgd	奠
 usgd	猷
 usge	闲静
-usgf	尊
 usgf	酋
+usgf	尊
 usgg	亲王
 usgh	新政
 usgk	闲事
@@ -68590,9 +68589,8 @@ xtes	纤腰
 xtf	纤
 xtfc	疑云
 xtff	乡土
-xtfh	绗
 xtfh	纤
-xtfh	经得起
+xtfh	绗
 xtfj	乡井
 xtfk	纤悉无遗
 xtfm	缵
@@ -68602,8 +68600,8 @@ xtft	终老
 xtg	缍
 xtga	张开
 xtgc	终至
-xtgf	缍
 xtgf	终于
+xtgf	缍
 xtgg	继往开来
 xtgh	乡下
 xtgx	维生素

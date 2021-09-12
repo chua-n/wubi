@@ -40854,8 +40854,8 @@ puwk	袷
 puwk	裕
 puwn	衿
 puwq	实像
-puws	实体
 puws	褓
+puws	实体
 puws	裸体
 puwt	初八
 puwu	补位
@@ -68291,8 +68291,8 @@ xpxw	缤纷
 xpxy	缩编
 xpyf	综计
 xpyg	综评
-xpyt	绽放
 xpyt	缩放
+xpyt	绽放
 xq	约
 xq	纸
 xq	绝
@@ -73080,8 +73080,6 @@ yypp	言之
 yypt	访客
 yypu	靡靡之音
 yypv	方案
-yypv	议案
-yypv	文案
 yypw	访察
 yyq	议
 yyqe	谅解

@@ -27669,8 +27669,8 @@ jtgo	曛
 jtgq	临死
 jtgx	蜂毒
 jth	昨
-jthf	蚱
 jthf	昨
+jthf	蚱
 jthi	监督
 jthk	晷
 jthk	临战
@@ -27688,7 +27688,6 @@ jtis	星河
 jtit	临海
 jtiu	临潼
 jtiv	晦涩
-jtiw	临沧
 jtiw	临汾
 jtiy	星洲
 jtj	蜊
@@ -27710,7 +27709,6 @@ jtjy	蟋蟀
 jtkg	星号
 jtkk	紧箍咒
 jtkl	鉴别
-jtkl	临别
 jtkq	蜂鸣
 jtkr	监听
 jtkt	临川
@@ -27761,8 +27759,6 @@ jtrn	晦气
 jtrp	监控
 jtrp	临近
 jtrt	蛾
-jtru	曼德拉
-jtru	昆德拉
 jtry	监护
 jtsf	监票
 jtsh	星相
@@ -27811,8 +27807,8 @@ jtyl	监
 jtym	临高
 jtyn	蜂房
 jtyp	晓行夜宿
-jtyq	鉴
 jtyq	览
+jtyq	鉴
 jtys	临床
 jtyt	星条旗
 jtyw	星座

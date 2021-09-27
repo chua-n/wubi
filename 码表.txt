@@ -56080,8 +56080,8 @@ trft	特教
 trg	徨
 trgd	我的天
 trgf	篁
-trgg	徨
 trgg	循环
+trgg	徨
 trgj	物理
 trgk	牾
 trgk	物事

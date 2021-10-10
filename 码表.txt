@@ -713,8 +713,6 @@ aff	芏
 affa	巨无霸
 affb	某地
 afff	鞋
-afff	鞲
-afff	葑
 affk	甘露
 affl	匹夫无罪
 affm	甘南

@@ -56189,8 +56189,8 @@ trte	毛手毛脚
 trtf	稗
 trtf	特等
 trtf	我等
-trtg	牲
 trtg	特征
+trtg	牲
 trth	我自
 trtk	牿
 trtk	特种

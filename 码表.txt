@@ -56137,8 +56137,8 @@ trnh	鹅蛋
 trnm	各抒己见
 trnm	各持己见
 trnn	特快
-trnt	我
 trnt	特性
+trnt	我
 trny	我心
 trod	物类
 trog	物业

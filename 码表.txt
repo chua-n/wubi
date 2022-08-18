@@ -1834,8 +1834,8 @@ amvv	雅典娜
 amw	黄
 amwc	英俊
 amws	共同体
-amwu	芮
 amwu	黄
+amwu	芮
 amww	英伦
 amwx	英华
 amxv	黄绿

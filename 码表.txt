@@ -67561,9 +67561,7 @@ xgm	绩
 xgmm	母婴
 xgmy	绩
 xgng	纯情
-xgnt	纯属
 xgnt	线性
-xgnt	母性
 xgo	彝
 xgoa	彝
 xgoj	缙

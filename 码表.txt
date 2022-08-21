@@ -53049,7 +53049,6 @@ tdbh	知耻
 tdbi	短函
 tdbk	辞职
 tdbl	矩阵
-tdbl	敌阵
 tdbm	刮出
 tdbn	知了
 tdbu	智障
@@ -53063,7 +53062,6 @@ tddc	乱码
 tddd	乱套
 tddh	智慧
 tddj	积非成是
-tddn	千百万
 tddn	千奇百怪
 tddt	短寿
 tddw	长大成人
@@ -55409,7 +55407,6 @@ tmiv	身染
 tmiy	自由泳
 tmje	微明
 tmjf	向里
-tmjg	微量
 tmjg	向量
 tmjj	向日
 tmjn	射电
@@ -55488,7 +55485,6 @@ tmti	微秒
 tmtj	微利
 tmtk	射程
 tmtm	身躯
-tmtm	微微
 tmtn	奥秘
 tmts	身条
 tmtt	微笑

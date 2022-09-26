@@ -40843,8 +40843,8 @@ puwg	实例
 puwh	补修
 puwi	裣
 puwi	补偿
-puwk	袷
 puwk	裕
+puwk	袷
 puwn	衿
 puwq	实像
 puws	褓

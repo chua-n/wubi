@@ -69579,8 +69579,8 @@ ycal	育苗
 ycb	序
 ycbb	弃子
 ycbe	袤
-ycbk	谲
 ycbk	序
+ycbk	谲
 ycbm	译出
 ycbw	弃除
 ycdc	译码

@@ -40843,8 +40843,8 @@ puwg	实例
 puwh	补修
 puwi	裣
 puwi	补偿
-puwk	裕
 puwk	袷
+puwk	裕
 puwn	衿
 puwq	实像
 puws	褓
@@ -69579,8 +69579,8 @@ ycal	育苗
 ycb	序
 ycbb	弃子
 ycbe	袤
-ycbk	序
 ycbk	谲
+ycbk	序
 ycbm	译出
 ycbw	弃除
 ycdc	译码
@@ -72966,6 +72966,7 @@ yyes	文采
 yyew	方脸
 yyey	言及
 yyfa	广域
+yyff	堃
 yyff	文坛
 yyfg	方寸
 yyfi	访求

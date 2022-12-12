@@ -71093,9 +71093,7 @@ ymxe	高级
 ymxe	市级
 ymxk	高强
 ymxt	设疑
-ymya	高度
 ymya	调试
-ymya	调度
 ymyb	调离
 ymyc	调序
 ymyf	设计

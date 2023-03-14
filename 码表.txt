@@ -16712,9 +16712,7 @@ geud	静养
 geue	五脏六腑
 geuf	青壮
 geug	不孕症
-geuj	表彰
 geuj	表单
-geuj	静音
 geun	表决
 geuq	表奖
 geus	表亲

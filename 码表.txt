@@ -4780,7 +4780,7 @@ budw	联奏
 budy	联
 bue	隧
 buep	隧
-bufc	联运
+bufc	联动
 bufd	出头露面
 bufg	卫道士
 bufr	孤立无援

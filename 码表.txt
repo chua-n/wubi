@@ -26566,8 +26566,8 @@ jgds	日理万机
 jgdu	昊
 jge	晴
 jgee	旺月
-jgeg	蜻
 jgeg	晴
+jgeg	蜻
 jgey	晡
 jgf	旦
 jgff	晴天霹雳

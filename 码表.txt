@@ -25246,7 +25246,7 @@ iutl	洋务
 iutm	滚筒
 iutp	滴管
 iutr	润物
-iutt	润笔
+iutt	浐
 iutw	滴答
 iutx	没关系
 iuty	滚入

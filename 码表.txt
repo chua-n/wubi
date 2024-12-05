@@ -53555,8 +53555,8 @@ texy	盘缠
 tey	航
 teyg	船主
 teym	航
+teyn	租户
 teyn	舫
-teyn	租房
 teyo	航迹
 teyp	透亮
 teyq	舣
